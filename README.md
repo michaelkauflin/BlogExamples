@@ -1,5 +1,2 @@
 # BlogExamples
-Examples used in my blog @ wordpress.com
-
-
-
+Examples used in my blog @ https://kauflin.wordpress.com/
